@@ -6,7 +6,7 @@ usando **Dart** e **Flutter**
 espaço reservado em memoria para armazenar um valor tenporariamente
 ## tipos de variaveis
 
-**string** - texto 
+**string** - texto
 **int** -numeros inteiros 
 **double** -numeros com decimais
 **/n** -proxima linha 
